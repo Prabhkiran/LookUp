@@ -1,0 +1,7 @@
+face_recognition
+cv2
+numpy
+xlwt
+xlrd
+xlutils.copy
+PIL
